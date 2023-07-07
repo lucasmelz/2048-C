@@ -3,6 +3,9 @@
 ## Sobre o projeto 
 
 O objetivo deste projeto é implementar o jogo 2048 em C para ser jogado no terminal. Pode-se personalizar as dimensões do tabuleiro, isto é, quando o programa é executado, pergunta-se ao utilizador qual o tamanho do tabuleiro (8x8, 4x4, 16x16, etc) antes do jogo iniciar. As peças podem ser movimentadas em 4 direções: Baixo, Cima, Direita  e  Esquerda (comandos B, C, D e E). Quando duas peças adjacentes possuem o mesmo valor, podem ser combinadas, resultando numa nova peça com o valor correspondente à soma das duas peças. O jogo possui dois modos distintos, interativo e automático. No modo interativo, o utilizador deve realizar as jogadas em tempo real digitando os comandos supracitados no terminal. No modo automático, as jogadas são lidas a partir de um ficheiro de texto. 
+<div align="center">
+<img src="./2048.gif"/>
+</div>
 
 ## Como executar
 
